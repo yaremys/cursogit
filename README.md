@@ -1,5 +1,5 @@
 # cursogit
 
-Cambio cualquiera
+Este es un proyecto que usamos para probar Git
 
 
